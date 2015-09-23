@@ -11,7 +11,8 @@ namespace FirstWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string name="";
+            string pwd="";
         }
     }
 }
